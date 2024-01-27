@@ -1,8 +1,10 @@
 ### 🔭 Hello!
 I'm a front-end developer<br>
-
-
-<img src="https://img.shields.io/badge/javascript-263238?logo=javascript"/> <img src="https://img.shields.io/badge/typescript-263238?logo=typescript"/> <img src="https://img.shields.io/badge/react-263238?logo=react"/>
+<img src="https://img.shields.io/badge/HTML5-263238?logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-263238?logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-263238?logo=javascript"/> 
+<img src="https://img.shields.io/badge/TypeScript-263238?logo=typescript"/> 
+<img src="https://img.shields.io/badge/React-263238?logo=react"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwwkimminja&show_icons=true&theme=radical)](https://camo.githubusercontent.com/68d2f8b32ca151ced9df743183a37dcdd6a883977dff9c4222fdfe9cfafc41ee/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6461726b)
 
