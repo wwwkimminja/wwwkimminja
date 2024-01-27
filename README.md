@@ -1,5 +1,7 @@
 ### 🔭 Hello!
-I'm a front-end developer<br>
+I'm a front-end developer
+<br>
+<br>
 <img src="https://img.shields.io/badge/HTML5-263238?logo=html5"/>
 <img src="https://img.shields.io/badge/CSS3-263238?logo=css3"/>
 <img src="https://img.shields.io/badge/JavaScript-263238?logo=javascript"/> 
